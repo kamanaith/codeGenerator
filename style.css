@@ -1,0 +1,29 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body{
+    text-align: center;
+    align-items: center;
+}
+.container{
+    border: 2px solid black;
+    padding: 5px;
+    margin: 5px;
+    font-size: large;
+}
+.generate{
+    text-align: center;
+    justify-content: center;
+    cursor: pointer;
+    margin: 5px;
+    padding: 5px;
+    font-size: large;
+    /* background-color: rgb(125, 125, 238); */
+
+}
+.generate:hover{
+    background-color: rgb(157, 212, 157);
+}
